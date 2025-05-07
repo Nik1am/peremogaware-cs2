@@ -14,7 +14,7 @@ Unsafe features:
 - fov changer
 - antiflash
 
-#FAQ
+# FAQ
 > Would I get banned?
 
 Of course yes!
